@@ -69,4 +69,4 @@ jobs:
         with:
           name: AX3000T-ImmortalWrt
           path: |
-            immortalwrt/bin/targets/mediatek/mt7981/*
+            immortalwrt/bin/targets/mediatek/filogic/*
